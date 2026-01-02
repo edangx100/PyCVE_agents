@@ -1,0 +1,8 @@
+openhands-sdk==1.7.1
+openhands-workspace==1.7.1
+openhands-tools==1.7.1
+openhands-agent-server==1.7.1
+gradio==6.2.0
+python-dotenv==1.2.1
+fastmcp==2.14.1
+uvicorn>=0.35.0

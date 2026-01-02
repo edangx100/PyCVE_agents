@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+.venv312/
+venv312/
+
+# Env files
+.env
+
+# Build artifacts
+build/
+dist/
+
+# App artifacts
+artifacts/
+workspace/
+
+# OS / editor
+.DS_Store
+
+
+.claude
