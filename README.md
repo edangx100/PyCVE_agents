@@ -1,4 +1,4 @@
-# PyCVE - Python CVE Scanner & Auto-Fixer
+# PyCVE - Python Dependencies CVE Scanner & Auto-Fixer
 
 *Automated vulnerability scanning, fixing, and reporting powered by AI Agents and secure Docker-sandbox execution.*
 
