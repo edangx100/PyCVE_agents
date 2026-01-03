@@ -225,7 +225,7 @@ Expected output:
 
 2. **Enter Repository URL**
    - Paste a GitHub repository URL that contains a `requirements.txt` file
-   - Example: `https://github.com/edangx100/multi-vuln-repo`
+   - Example: `https://github.com/edangx100/single-vuln-repo`
 
 3. **Click "Run Scan"**
 ![Run Scan Button](./run_scan.jpg)
