@@ -154,16 +154,14 @@ cp .env.example .env
 nano .env  # or use your preferred editor
 ```
 
-**Minimal required configuration:**
+*3 *Minimal required configurations at .env:**
 
 ```bash
-# OpenRouter API Key (required)
+OPENROUTER_API_KEY=sk-or-v1-your-key-here    # OpenRouter API Key
 
-OPENROUTER_API_KEY=sk-or-v1-your-key-here
+DOCKER_LLM_API_KEY=sk-or-v1-your-key-here    # OpenRouter API Key
 
-DOCKER_LLM_API_KEY=sk-or-v1-your-key-here
-
-DOCKER_MOUNT_DIR=/path/to/your/PyCVE
+DOCKER_MOUNT_DIR=/path/to/your/PyCVE         # absolute path to your PyCVE directory
 ```
 
 **Important:** Replace `/path/to/your/PyCVE` with the actual absolute path to your PyCVE directory.
