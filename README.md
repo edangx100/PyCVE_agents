@@ -121,8 +121,8 @@ Today's vulnerability scanning tools like `pip-audit` can identify issues, but f
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/edangx100/PyCVE.git
-cd PyCVE
+git clone https://github.com/edangx100/PyCVE_agents.git
+cd PyCVE_agents
 ```
 
 ### Step 2: Create and Activate Python Virtual Environment
